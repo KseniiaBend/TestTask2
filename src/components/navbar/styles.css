@@ -1,0 +1,8 @@
+.navigationBar a {
+    margin: 0 8px;
+    text-decoration: none;
+    font-size: 1.25rem;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    line-height: inherit;
+}
